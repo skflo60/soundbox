@@ -211,6 +211,12 @@
 	    				case 103:
 	    					setSrcAndPlay("sounds/prout.mp3");
 	    				break;
+	    				case 104:
+	    					setSrcAndPlay("sounds/tagueule.mp3");
+	    				break;
+	    				case 105:
+	    					setSrcAndPlay("sounds/faisonscommeca.mp3");
+	    				break;
 	    			}
 				}
 			});
