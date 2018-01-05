@@ -217,6 +217,9 @@
 	    				case 105:
 	    					setSrcAndPlay("sounds/faisonscommeca.mp3");
 	    				break;
+	    				case 100:
+	    					setSrcAndPlay("sounds/ah.mp3");
+	    				break;
 	    			}
 				}
 			});
